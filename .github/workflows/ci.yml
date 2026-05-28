@@ -2,7 +2,7 @@ name: Build and Push to Docker Hub
 
 on:
   push:
-    branches: [main]  # Only trigger on main branch pushes
+    branches: [main]  # Only trigger on main branch push
 
 jobs:
   build-and-push:
