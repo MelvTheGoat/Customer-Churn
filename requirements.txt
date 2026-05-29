@@ -6,4 +6,4 @@ xgboost==3.0.3
 mlflow==2.14.1
 pydantic==2.8.2
 great_expectations==1.5.8
-gradio
+gradio==4.44.0
